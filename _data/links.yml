@@ -1,0 +1,7 @@
+list:
+- title: "About"
+  url: "/about/"
+- title: "Blog"
+  url: "/about/blog/"
+- title: "contact"
+  url: "mailto:rul@inputekno.com"
