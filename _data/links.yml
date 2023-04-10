@@ -2,6 +2,6 @@ list:
 - title: "About"
   url: "/about/"
 - title: "Blog"
-  url: "/about/blog/"
+  url: "https://www.inputekno.com/"
 - title: "contact"
-  url: "mailto:rul@inputekno.com"
+  url: "mailto:info@inputekno.com"
