@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: RulnoveID
-email: rul@inputekno.com
-description: Write Code
+title: Inputekno
+email: info@inputekno.com
+description: CDN page for Blog
 phone_number: XXXX - XXXX
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "rulnove.githun.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "rulnove.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 google_site_verification : "#" # Add your Google Site Verification
 google_analytics: "#" # Add your GA Tracking Id
